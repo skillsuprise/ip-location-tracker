@@ -1,0 +1,4 @@
+write php and js code to log the ip and location of the visitor 
+where all the code should be in single file and once the userdata is logged, 
+  user should be redirected to instagram.com. the code should have seo titles and descriptions of instagram and page should have instagra reel as title 
+and loading instagram reel as descriptions and instagram logo with loading progress. once the data is logged redirect user. it should use js locator method to get location
